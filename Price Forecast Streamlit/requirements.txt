@@ -1,0 +1,7 @@
+pandas
+plotly
+prophet
+python-multipart
+openpyxl
+seaborn
+streamlit

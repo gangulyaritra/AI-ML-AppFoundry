@@ -1,0 +1,10 @@
+ensure
+fastapi
+joblib
+mlflow
+pandas
+python-box
+python-dotenv
+PyYAML
+scikit-learn
+uvicorn

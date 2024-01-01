@@ -1,0 +1,6 @@
+ElasticNet:
+  alpha: 0.4
+  l1_ratio: 0.6
+  max_iter: 800
+  tol: 0.0005
+  selection: cyclic

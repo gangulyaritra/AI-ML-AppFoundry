@@ -1,0 +1,9 @@
+fastapi
+Flask
+gunicorn
+pandas
+regex
+scikit-learn
+tensorflow
+textblob
+uvicorn
