@@ -1,0 +1,6 @@
+openpyxl
+pandas
+psycopg2-binary
+pycountry
+spacy
+sqlalchemy
